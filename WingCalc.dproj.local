@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/10/08 19:35:09.201,=C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/08 22:19:30.825,C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\WingCalc\cWingCalc.pas=C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/08 22:19:30.825,C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\WingCalc\cWingCalc.dfm=C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/10/08 22:19:53.922,C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\WingCalc.dproj=C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/10/08 22:35:06.267,C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\WingCalc\WingCalc.dproj=C:\Users\subst\OneDrive\Documents\Embarcadero\Studio\Projects\WingCalc.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
